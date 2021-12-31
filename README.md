@@ -15,7 +15,7 @@ To submit, please upload a text file containing a link to your Github repository
 
 Introduction:
 This portfolio website was created using HTML, CSS, Javascript and style CSS for mobile and web responsiveness.
-The portfolio sight was made one page with links to documentation of the projects featured on the site. This will enable the user to see and read about the process of each project. 
+The portfolio site was made one page with links to documentation of the projects featured on the site. This will enable the user to see and read about the process of each project. 
 
 Layout and Structure:
 The layout and code of the HTML, CSS, Javascript and SCSS was inspired by Bedimcode - A Youtube Creator's tutorial videos. The initial content was written followed by The code for creating links and image tags were gotten from w3schools.com site. After the layout was created, the style sheets were used to structure the content on the site. The javascript file was used to create the tranitions to make the site dynamic.  
