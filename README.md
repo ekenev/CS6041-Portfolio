@@ -1,5 +1,6 @@
 # CS6041-Portfolio
-Link to GitHub page: https://ekenev.github.io/CS6041-Portfolio/
+Link to GitHub Site: https://ekenev.github.io/CS6041-Portfolio/
+Link to GitHub Repository: https://github.com/ekenev/CS6041-Portfolio
 
 Assignment Brief:
 For this assignment you are required to demonstrate your ability to design and create a modern, responsive, mobile-first website.
