@@ -15,7 +15,7 @@
     --text-color: #697477;
 }
 
-/*===== Fuente y tipografia =====*/
+/*===== Fonts and Typography =====*/
 :root{
     --body-font: 'Montserrat', sans-serif;
     --big-font-size: 6.25rem;
@@ -32,7 +32,7 @@
     }
 }
 
-/*===== Margenes =====*/
+/*===== Margins =====*/
 :root{
     --mb-1: .5rem;
     --mb-2: 1rem;
@@ -120,7 +120,7 @@ img{
     background-color: var(--first-color);
 }
 
-/*===== NAV =====*/
+/*===== Navigation =====*/
 .nav{
     height: var(--header-height);
     display: flex;
