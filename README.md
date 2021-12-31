@@ -31,3 +31,11 @@ Reflecions:
 3. Fixing bugs and making edits to code was quite daunting as first time user.
 4. The creation of this portfolio site involed a huge learning curve. 
 5. Picked up a few debugging skills during the execution of this project. 
+
+References: 
+1. Version Control - https://www.youtube.com/watch?v=JeUMb0OgUGg&t=811s 
+2. Git - https://git-scm.com/doc 
+3. Boxicons - https://github.com/atisawd/boxicons
+4. Font - https://github.com/JulietaUla/Montserrat 
+5. Bedimcode YouTube Video - https://www.youtube.com/watch?v=6cidbUHNZRQ&t=487s 
+6. w3schools - https://www.w3schools.com/ 
